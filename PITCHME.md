@@ -60,7 +60,7 @@
 <br>
 @snapend
 
-+++?image=https://cdn.onekindesign.com/wp-content/uploads/2017/11/Cozy-Bedroom-Decorating-Ideas-For-Winter-03-1-Kindesign.jpg&position=right&size=42% 65%
++++?image=https://cdn.onekindesign.com/wp-content/uploads/2017/11/Cozy-Bedroom-Decorating-Ideas-For-Winter-03-1-Kindesign.jpg&position=right&size=42% 65%&color=#FFD8D8
 
 @title[Personal Biography]
 
@@ -79,7 +79,7 @@
 <br><br>
 @snapend
 
-+++?image=https://namavaranedu.com/wp-content/uploads/2017/04/concentrate.jpg&position=right&size=42% 65%
++++?image=https://namavaranedu.com/wp-content/uploads/2017/04/concentrate.jpg&position=right&size=42% 65%&color=#FFD8D8
 
 @title[Personal Biography]
 
@@ -117,7 +117,7 @@
 <br><br>
 @snapend
 
-+++?image=https://st.depositphotos.com/1606463/1450/i/950/depositphotos_14502651-stock-photo-dj-santa.jpg&position=right&size=42% 65%
++++?image=https://st.depositphotos.com/1606463/1450/i/950/depositphotos_14502651-stock-photo-dj-santa.jpg&position=right&size=42% 65%&color=#FFD8D8
 
 @title[Personal Biography]
 
