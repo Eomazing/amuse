@@ -1,7 +1,7 @@
 ---?image=https://www.pantone.com/images/pages/20758/wallpaper/PANTONE-Color-of-the-Year-2019-living-coral-16-1546-v1-5120x2880.jpg
 @title[About Templates]
 
-## @color[white](우리 조를<br>소개합니다! )
+## @color[white](HAWE 조를<br>소개합니다! )
 
 @fa[arrow-down text-]
 
