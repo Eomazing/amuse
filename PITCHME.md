@@ -42,6 +42,18 @@ Graphic Designer
 Lead Developer
 @snapend
 
+@snap[midpoint about-team-pic about-team-pic-center]
+![ABBY](https://user-images.githubusercontent.com/45954014/50435178-874d3480-0923-11e9-9a5f-e175909c3ffe.jpg)
+@snapend
+
+@snap[south text-06]
+@color[#4487F2](Yoon-Ju Eom)
+<br><br>
+@fa[github](abbycode)
+<br>
+Lead Developer
+@snapend
+
 @snap[east about-team-pic]
 ![BERRY](https://user-images.githubusercontent.com/45954014/50435177-861c0780-0923-11e9-90c5-0db0c7336ae2.jpg)
 @snapend
