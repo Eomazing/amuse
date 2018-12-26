@@ -48,10 +48,8 @@ Lead Developer
 
 @snap[south text-06]
 @color[#4487F2](Yoon-Ju Eom)
-<br><br>
-@fa[github](abbycode)
 <br>
-Lead Developer
+<br>
 @snapend
 
 @snap[east about-team-pic]
@@ -61,9 +59,9 @@ Lead Developer
 @snap[south-east text-06]
 @color[#4487F2](Hyun-Woo Song)
 <br><br>
-@fa[linkedin](berryngu)
+<br><br>
 <br>
-Channel Marketing
+<br>
 @snapend
 
 @snap[north-east template-note text-white]
