@@ -23,7 +23,7 @@
 </div>
 
 @snap[south-west text-06]
-@color[#4487F2]()
+@color[#4487F2](Yeong-Hyeon Jo)
 <br><br>
 @fa[twitter](wendy)
 <br>
