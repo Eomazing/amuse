@@ -70,7 +70,7 @@
 @snapend
 
 @snap[west text-08 span-60]
-<br>
+<br><br>
 별명 : 토게피<br>
 <br>
 성격 : 외유내강! 강철멘탈!<br>
@@ -89,7 +89,7 @@
 @snapend
 
 @snap[west text-08 span-60]
-<br>
+<br><br>
 별명 : 기퐁이<br>
 <br>
 성격 : 쾌활, 명랑<br>
@@ -108,7 +108,7 @@
 @snapend
 
 @snap[west text-08 span-60]
-<br>
+<br><br>
 별명 : AMUSE<br>
 <br>
 성격 : 도전적, 호기심이 많은<br>
@@ -127,7 +127,7 @@
 @snapend
 
 @snap[west text-08 span-60]
-<br>
+<br><br>
 별명 : spurs<br>
 <br>
 성격 : 유쾌!<br>
