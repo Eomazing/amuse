@@ -18,7 +18,7 @@
 @snapend
 
 @snap[west about-team-pic]
-![WENDY](template/img/profile/wendy.jpg)
+![](![kakaotalk_20181226_150235481](https://user-images.githubusercontent.com/45954068/50434120-874b3580-091f-11e9-9641-69dc71a2e12d.jpg))
 @snapend
 
 @snap[south-west text-06]
