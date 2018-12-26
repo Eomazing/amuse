@@ -19,7 +19,7 @@
 
 @snapend
 <div class="west about-team-pic">
-![Image](https://user-images.githubusercontent.com/45954068/50434120-874b3580-091f-11e9-9641-69dc71a2e12d.jpg)
+![Image](https://user-images.githubusercontent.com/45954014/50435162-713f7400-0923-11e9-866a-0ee1257dfc74.png)
 </div>
 
 @snap[south-west text-06]
@@ -31,11 +31,11 @@ Graphic Designer
 @snapend
 
 @snap[midpoint about-team-pic about-team-pic-center]
-![ABBY](template/img/profile/abby.jpg)
+![ABBY](https://user-images.githubusercontent.com/45954014/50435176-85837100-0923-11e9-8952-a6f7fb756362.jpg)
 @snapend
 
 @snap[south text-06]
-@color[#4487F2](Abby Bauer)
+@color[#4487F2](Chang-Eon Ha)
 <br><br>
 @fa[github](abbycode)
 <br>
@@ -43,11 +43,11 @@ Lead Developer
 @snapend
 
 @snap[east about-team-pic]
-![BERRY](template/img/profile/berry.jpg)
+![BERRY](https://user-images.githubusercontent.com/45954014/50435177-861c0780-0923-11e9-90c5-0db0c7336ae2.jpg)
 @snapend
 
 @snap[south-east text-06]
-@color[#4487F2](Berry Nguyen)
+@color[#4487F2](Hyun-Woo Song)
 <br><br>
 @fa[linkedin](berryngu)
 <br>
