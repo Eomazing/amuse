@@ -75,9 +75,4 @@ Yeong-Hyeon Jo
 <br>
 12월 31일? 따뜻한 집에서 가족들과 함께 새해맞이!
 <br><br>
-Inspired by Babbage’s Analytical Engine she imagined the modern-day, general-purpose computer back in 1843.<br><br>Ada is now recognized as the first computer programmer.
-@snapend
-
-@snap[south-west template-note text-gray]
-Simple biography template.
 @snapend
