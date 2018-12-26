@@ -65,6 +65,7 @@
 @title[Personal Biography]
 
 @snap[north-west bio-name]
+<br>
 Yeong-Hyeon Jo
 @snapend
 
