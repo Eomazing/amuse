@@ -10,7 +10,7 @@
 @snapend
 
 
-+++?image=template/img/bg/blue.jpg&color=white&position=top&size=100% 50%
++++?image=https://pbs.twimg.com/media/DSxbjOEUMAIAZwp.jpg&color=white&position=top&size=100% 50%
 @title[Meet The Team]
 
 @snap[north text-black span-100]
