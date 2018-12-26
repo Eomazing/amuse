@@ -77,3 +77,57 @@ Yeong-Hyeon Jo
 12월 31일? 따뜻한 집에서 가족들과 함께 새해맞이!<br>
 <br><br>
 @snapend
+
++++?image=https://cdn.onekindesign.com/wp-content/uploads/2017/11/Cozy-Bedroom-Decorating-Ideas-For-Winter-03-1-Kindesign.jpg&position=right&size=42% 65%
+
+@title[Personal Biography]
+
+@snap[north-west bio-name]
+<br>
+Chang-Eon Ha
+@snapend
+
+@snap[west text-08 span-60]
+별명 : 기퐁이<br>
+<br>
+성격 : 쾌활, 명랑<br>
+<br>
+12월 31일? 순공 100%!<br>
+<br><br>
+@snapend
+
++++?image=https://cdn.onekindesign.com/wp-content/uploads/2017/11/Cozy-Bedroom-Decorating-Ideas-For-Winter-03-1-Kindesign.jpg&position=right&size=42% 65%
+
+@title[Personal Biography]
+
+@snap[north-west bio-name]
+<br>
+Yoon-Ju Eom
+@snapend
+
+@snap[west text-08 span-60]
+별명 : AMUSE<br>
+<br>
+성격 : 도전적, 호기심이 많은<br>
+<br>
+12월 31일? 가족들과 홈파티<br>
+<br><br>
+@snapend
+
++++?image=https://cdn.onekindesign.com/wp-content/uploads/2017/11/Cozy-Bedroom-Decorating-Ideas-For-Winter-03-1-Kindesign.jpg&position=right&size=42% 65%
+
+@title[Personal Biography]
+
+@snap[north-west bio-name]
+<br>
+Hyun-Woo Song
+@snapend
+
+@snap[west text-08 span-60]
+별명 : spurs<br>
+<br>
+성격 : 유쾌!<br>
+<br>
+12월 31일? SSAFY 생각없이 놀기!<br>
+<br><br>
+@snapend
