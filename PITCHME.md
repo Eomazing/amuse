@@ -14,7 +14,7 @@
 @title[Meet The Team]
 
 @snap[north text-black span-100]
-### @color[#4487F2] (Meet The Team)
+### @color[#4487F2](Meet The Team)
 @snapend
 
 @snapend
