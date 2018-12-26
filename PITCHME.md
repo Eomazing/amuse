@@ -30,7 +30,7 @@
 Graphic Designer
 @snapend
 
-@snap[midpoint about-team-pic about-team-pic-center]
+@snap[mid-west about-team-pic about-team-pic-center]
 ![ABBY](https://user-images.githubusercontent.com/45954014/50435176-85837100-0923-11e9-8952-a6f7fb756362.jpg)
 @snapend
 
@@ -42,7 +42,7 @@ Graphic Designer
 Lead Developer
 @snapend
 
-@snap[midpoint about-team-pic about-team-pic-center]
+@snap[mid-east about-team-pic about-team-pic-center]
 ![ABBY](https://user-images.githubusercontent.com/45954014/50435178-874d3480-0923-11e9-9a5f-e175909c3ffe.jpg)
 @snapend
 
