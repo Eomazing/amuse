@@ -1,5 +1,5 @@
 ---?image=template/img/pencils.jpg
-@title[About Templates]
+@title[우리 조를 소개합니다]
 
 ## @color[black](About<br>Slide Templates)
 
