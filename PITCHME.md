@@ -3,7 +3,7 @@
 
 ## @color[white](우리 조를<br>소개합니다! )
 
-@fa[arrow-down text-black]
+@fa[arrow-down text-]
 
 @snap[south docslink span-50]
 [The Template Docs](https://gitpitch.com/docs/the-template)
