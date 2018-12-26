@@ -1,7 +1,7 @@
 ---?image=http://www.ipcm.it/images/download/K000/960/ppg-colour-of-the-year-2019-nigh-watch-ipcm-800.jpg
 @title[우리 조를 소개합니다]
 
-## @color[black](About<br>Slide Templates)
+## @color[white](About<br>우리 조를 )
 
 @fa[arrow-down text-black]
 
