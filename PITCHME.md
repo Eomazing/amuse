@@ -24,6 +24,10 @@
 
 @snap[south-west text-06]
 @color[#4487F2](Yeong-Hyeon Jo)
+<br>
+<br>
+<br>
+<br>
 @snapend
 
 @snap[mid-west about-team-pic about-team-pic-center]
