@@ -60,15 +60,19 @@
 <br>
 @snapend
 
-+++?image=template/img/lovelace.jpg&position=right&size=42% 65%
++++?image=https://cdn.onekindesign.com/wp-content/uploads/2017/11/Cozy-Bedroom-Decorating-Ideas-For-Winter-03-1-Kindesign.jpg
 @title[Personal Biography]
 
 @snap[north-west bio-name]
-Ada Lovelace
+Yeong-Hyeon Jo
 @snapend
 
 @snap[west text-08 span-60]
-A gifted mathematician. Born 1815.
+별명 : 토게피
+<br>
+성격 : 외유내강! 강철멘탈!
+<br>
+12월 31일? 따뜻한 집에서 가족들과 함께 새해맞이!
 <br><br>
 Inspired by Babbage’s Analytical Engine she imagined the modern-day, general-purpose computer back in 1843.<br><br>Ada is now recognized as the first computer programmer.
 @snapend
