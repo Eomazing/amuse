@@ -3,7 +3,7 @@
 
 ## @color[white](HAWE 조를<br>소개합니다! )
 
-@fa[arrow-down text-]
+@fa[arrow-down text-yellow]
 
 @snap[south docslink span-50]
 [HAWE](https://gitpitch.com/Eomazing/amuse)
