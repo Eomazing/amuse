@@ -85,7 +85,7 @@
 
 @snap[north-west bio-name]
 <br>
-## @color[#4487F2]Chang-Eon Ha
+## @color[#4487F2](Chang-Eon Ha)
 @snapend
 
 @snap[west text-08 span-60]
@@ -104,7 +104,7 @@
 
 @snap[north-west bio-name]
 <br>
-## @color[#4487F2]Yoon-Ju Eom
+## @color[#4487F2](Yoon-Ju Eom)
 @snapend
 
 @snap[west text-08 span-60]
@@ -123,7 +123,7 @@
 
 @snap[north-west bio-name]
 <br>
-## @color[#4487F2]Hyun-Woo Song
+## @color[#4487F2](Hyun-Woo Song)
 @snapend
 
 @snap[west text-08 span-60]
