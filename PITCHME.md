@@ -6,7 +6,7 @@
 @fa[arrow-down text-]
 
 @snap[south docslink span-50]
-[The Template Docs](https://gitpitch.com/docs/the-template)
+[The Template Docs](https://gitpitch.com/Eomazing/amuse)
 @snapend
 
 
