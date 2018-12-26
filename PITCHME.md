@@ -66,7 +66,7 @@
 
 @snap[north-west bio-name]
 <br>
-Yeong-Hyeon Jo
+@color[#4487F2].(Yeong-Hyeon Jo)
 @snapend
 
 @snap[west text-08 span-60]
