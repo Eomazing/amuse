@@ -60,10 +60,6 @@
 <br>
 @snapend
 
-@snap[north-east template-note text-white]
-Team intro template.
-@snapend
-
 +++?image=template/img/lovelace.jpg&position=right&size=42% 65%
 @title[Personal Biography]
 
