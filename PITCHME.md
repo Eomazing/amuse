@@ -1,3 +1,14 @@
+---?image=template/img/pencils.jpg
+@title[About Templates]
+
+## @color[black](About<br>Slide Templates)
+
+@fa[arrow-down text-black]
+
+@snap[south docslink span-50]
+[The Template Docs](https://gitpitch.com/docs/the-template)
+@snapend
+
 +++?image=template/img/bg/blue.jpg&color=white&position=top&size=100% 50%
 @title[Meet The Team]
 
