@@ -19,7 +19,11 @@
 
 @snap[west about-team-pic]
 ![JYH](![kakaotalk_20181226_150235481]https://user-images.githubusercontent.com/45954068/50434120-874b3580-091f-11e9-9641-69dc71a2e12d.jpg)
+
 @snapend
+<div class="west about-team-pic">
+![Image](https://user-images.githubusercontent.com/45954068/50434120-874b3580-091f-11e9-9641-69dc71a2e12d.jpg)
+</div>
 
 @snap[south-west text-06]
 @color[#4487F2](Wendy Sesay)
