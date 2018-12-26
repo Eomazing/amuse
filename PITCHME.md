@@ -60,7 +60,7 @@
 <br>
 @snapend
 
----?image="https://cdn.onekindesign.com/wp-content/uploads/2017/11/Cozy-Bedroom-Decorating-Ideas-For-Winter-03-1-Kindesign.jpg" data-background-size="42% 65%" data-background-position="right" data-background=" " data-background-repeat=" " data-background-transition="none"
++++?image=https://cdn.onekindesign.com/wp-content/uploads/2017/11/Cozy-Bedroom-Decorating-Ideas-For-Winter-03-1-Kindesign.jpg&position=right&size=42% 65%
 
 @title[Personal Biography]
 
