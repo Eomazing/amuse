@@ -37,9 +37,9 @@
 @snap[north text-06]
 @color[#4487F2](Chang-Eon Ha)
 <br><br>
-@fa[github](abbycode)
+<br><br>
 <br>
-Lead Developer
+<br>
 @snapend
 
 @snap[mid-east about-team-pic about-team-pic-center]
