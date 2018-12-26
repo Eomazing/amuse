@@ -98,7 +98,7 @@
 <br><br>
 @snapend
 
-+++?image=https://s3-ap-southeast-1.amazonaws.com/images.humanresourcesonline.net/wp-content/uploads/2016/11/Orange-Clove-resized-pic-700x420.jpg&position=right&size=42% 65%
++++?image=https://s3-ap-southeast-1.amazonaws.com/images.humanresourcesonline.net/wp-content/uploads/2016/11/Orange-Clove-resized-pic-700x420.jpg&position=right&size=42% 65%&color=#FFD8D8
 
 @title[Personal Biography]
 
