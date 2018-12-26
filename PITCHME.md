@@ -36,8 +36,6 @@
 
 @snap[midpoint text-06]
 @color[#4487F2](Chang-Eon Ha)
-<br>
-<br>
 @snapend
 
 @snap[mid-east about-team-pic about-team-pic-center]
