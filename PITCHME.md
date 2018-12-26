@@ -34,10 +34,8 @@
 ![ABBY](https://user-images.githubusercontent.com/45954014/50435176-85837100-0923-11e9-8952-a6f7fb756362.jpg)
 @snapend
 
-@snap[north text-06]
+@snap[midpoint text-06]
 @color[#4487F2](Chang-Eon Ha)
-<br><br>
-<br><br>
 <br>
 <br>
 @snapend
